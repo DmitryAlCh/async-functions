@@ -1,0 +1,22 @@
+{
+  "name": "async-functions",
+  "version": "1.0.0",
+  "description": "Following udemy Nodejs course",
+  "main": "app-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryAlCh/async-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryAlCh/async-functions/issues"
+  },
+  "homepage": "https://github.com/DmitryAlCh/async-functions#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
